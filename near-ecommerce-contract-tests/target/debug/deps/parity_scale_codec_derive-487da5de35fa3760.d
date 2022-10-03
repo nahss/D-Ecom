@@ -1,0 +1,10 @@
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/libparity_scale_codec_derive-487da5de35fa3760.so: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/parity_scale_codec_derive-487da5de35fa3760.d: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs:

@@ -1,0 +1,12 @@
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/libthiserror_impl-a054f48919e7edd6.so: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs
+
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/thiserror_impl-a054f48919e7edd6.d: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs
+
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs:

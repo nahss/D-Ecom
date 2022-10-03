@@ -1,0 +1,25 @@
+24
+63/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/.gitignore1664805132236050387 0
+61/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/services1664805132268045900 1
+65/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/package.json1664805132268045900 0
+70/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/package-lock.json1664805132268045900 0
+71/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/assets/favicon.ico1664805132236050387 0
+59/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/App.js1664805132236050387 0
+75/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/services/blockchain.js1664805132268045900 0
+79/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist/index.3d214d75.js.map1664805132268045900 0
+61/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/index.js1664805132268045900 0
+57/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist1664805132268045900 1
+75/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist/index.3d214d75.js1664805132248048705 0
+80/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist/index.bc0daea6.css.map1664805132268045900 0
+63/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/index.html1664805132268045900 0
+52/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend1664805556885863214 1
+78/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist/favicon.eee7a1e8.ico1664805132236050387 0
+70/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/assets/global.css1664805132236050387 0
+59/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/assets1664805132236050387 1
+68/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist/index.html1664805132268045900 0
+68/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/services/api.js1664805132268045900 0
+69/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/configs/index.js1664805132236050387 0
+81/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist/logo-white.a7716062.svg1664805132268045900 0
+81/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist/logo-black.4514ed42.svg1664805132268045900 0
+76/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/dist/index.bc0daea6.css1664805132268045900 0
+60/home/hao/Downloads/Near-Dapp/uit-ecommerce-frontend/configs1664805132236050387 1

@@ -1,0 +1,13 @@
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/ansi_term-c48e632131bdf031.rmeta: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/ansi.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/style.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/difference.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/display.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/write.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/windows.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/util.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/debug.rs
+
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/ansi_term-c48e632131bdf031.d: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/ansi.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/style.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/difference.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/display.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/write.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/windows.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/util.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/debug.rs
+
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/lib.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/ansi.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/style.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/difference.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/display.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/write.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/windows.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/util.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.12.1/src/debug.rs:

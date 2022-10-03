@@ -1,0 +1,11 @@
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/serde_urlencoded-ff34548d153992b2.rmeta: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/serde_urlencoded-ff34548d153992b2.d: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs:

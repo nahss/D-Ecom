@@ -1,0 +1,17 @@
+.product-lists {
+  flex-direction: row;
+  margin-top: 50px;
+  display: flex;
+}
+
+.product-item {
+  width: 300px;
+  border: 1px solid;
+  padding: 15px;
+}
+
+.product-item img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=index.bc0daea6.css.map */

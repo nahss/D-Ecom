@@ -1,0 +1,13 @@
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/quote-a0c623aa5d3bbf3c.rmeta: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/libquote-a0c623aa5d3bbf3c.rlib: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/hao/Downloads/Near-Dapp/uit-ecommerce-contract-tests/target/debug/deps/quote-a0c623aa5d3bbf3c.d: /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs:
+/home/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs:
